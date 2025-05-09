@@ -1,1 +1,0 @@
-print('já chega de fazer essas telas né?')
